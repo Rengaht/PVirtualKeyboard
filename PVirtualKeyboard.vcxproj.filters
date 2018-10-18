@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\PKeyboard.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxTrueTypeFontUC\src\ofxTrueTypeFontUC.cpp">
+      <Filter>addons\ofxTrueTypeFontUC\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.cpp">
+      <Filter>addons\ofxXmlSettings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.cpp">
+      <Filter>addons\ofxXmlSettings\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlerror.cpp">
+      <Filter>addons\ofxXmlSettings\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlparser.cpp">
+      <Filter>addons\ofxXmlSettings\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteAbstract.cpp">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteDelete.cpp">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteFieldValues.cpp">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteInsert.cpp">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteSelect.cpp">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteSimpler.cpp">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteUpdate.cpp">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSQLite\src\ofxSQLite.cpp">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxTrueTypeFontUC">
+      <UniqueIdentifier>{5652952C-1675-EFF8-8E62-5D8C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxTrueTypeFontUC\src">
+      <UniqueIdentifier>{7E369600-03BF-EEFC-FA92-F38A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings">
+      <UniqueIdentifier>{cb66b0b6-0bfb-4d97-a813-e4918f88f02f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings\lib">
+      <UniqueIdentifier>{2681f688-b10d-4561-84c2-d44dacaeb23b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxSQLite">
+      <UniqueIdentifier>{16da940a-9cbe-4067-b19b-7df7c36fb343}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\PDatabase.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\PKeyboard.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxTrueTypeFontUC\src\ofxTrueTypeFontUC.h">
+      <Filter>addons\ofxTrueTypeFontUC\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.h">
+      <Filter>addons\ofxXmlSettings</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.h">
+      <Filter>addons\ofxXmlSettings\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLite.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteAbstract.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteDelete.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteFieldValues.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteHeaders.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteInsert.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteSelect.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteSimpler.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteType.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteTypeNow.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteUpdate.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\ofxSQLiteWhere.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSQLite\src\lib\sqlite\sqlite3.h">
+      <Filter>addons\ofxSQLite</Filter>
+    </ClInclude>
+    <ClInclude Include="src\PTextInput.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
